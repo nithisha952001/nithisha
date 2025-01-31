@@ -71,7 +71,8 @@ Below are example screenshots demonstrating key visualizations and insights:
    Predicted NEET Rank: 500
    ```
 SOURCE CODE:
-   import requests
+
+import requests
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
