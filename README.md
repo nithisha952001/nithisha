@@ -52,8 +52,7 @@ The NEET Performance Analyzer is a Python-based solution that helps students ass
 - Scales features and trains the model on provided data.
 
 ### Visualization
-- Displays a bar chart showing accuracy across different topics.
-- 
+- Displays a bar chart showing accuracy across different topics. 
 
 ## Insights Summary
 Below are example screenshots demonstrating key visualizations and insights:
